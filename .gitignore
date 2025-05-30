@@ -6,3 +6,4 @@ terraform/.terraform/
 *.tfstate.*
 *.tfplan
 *.tfvars
+node_modules
